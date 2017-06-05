@@ -16,7 +16,7 @@ url_pdf = "papers/ICASSP2017.pdf"
 #url_project = "project/deep-learning/"
 url_slides = "papers/ICASSP2017_poster.pdf"
 url_video = ""
-url_bibtex = "papers/ICASSP2017.htm"
+url_bibtex = "papers/ICASSP2017.bib"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
