@@ -37,4 +37,4 @@ weight = 1
 
 # Biography
 
-I’m a computer vision PhD student at the Queensland University of Technologie in Australia. My interests include 3D geometry and reconstruction. I’m currently working on a research project at the Robotics Institute at the Carnegie Mellon University. My research focuses on the 3D reconstruction from natural images.
+I’m a computer vision PhD student at the Queensland University of Technologie in Australia. My interests include 3D geometry and reconstruction. I’m currently working on a research project at the Robotics Institute at the Carnegie Mellon University. My research focuses on 3D reconstruction from 2D images.

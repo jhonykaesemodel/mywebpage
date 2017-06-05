@@ -14,9 +14,9 @@ url_code = ""
 url_dataset = ""
 url_pdf = "papers/ICASSP2017.pdf"
 #url_project = "project/deep-learning/"
-url_slides = "papers/ICASSP2017_poster.pdf"
+url_poster = "papers/ICASSP2017_poster.pdf"
 url_video = ""
-url_bibtex = "papers/ICASSP2017.bib"
+url_bibtex = "papers/ICASSP2017.html"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
