@@ -1,0 +1,7 @@
+hugo new post/quote.md
+hugo server --watch
+
+git add .
+git commit -m "changes"
+git push -u origin master
+./deploy.sh
