@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Queensland University of Technology"
   organization_url = ""
   avatar = "portrait/jhony.gif"
-  email = "jhonykaesemodel@gmail.com"
+  email = "jhonykaesemodelATgmail.com"
   address = ""
   office_hours = ""
   phone = ""
@@ -122,10 +122,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:jhonykaesemodel@gmail.com"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:jhonykaesemodel@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
