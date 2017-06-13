@@ -140,7 +140,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jhonykaesemodel"
+    link = "https://github.com/jhonykaesemodel"
 
   [[params.social]]
     icon = "mendeley"
@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/jhonykaesemodel"
+    link = "https://twitter.com/jhonykaesemodel"
 
   [[params.social]]
     icon = "instagram"
