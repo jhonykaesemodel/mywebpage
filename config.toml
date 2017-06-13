@@ -122,10 +122,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "jhonykaesemodel@gmail.com"
+  #[[params.social]]
+    #icon = "envelope"
+    #icon_pack = "fa"
+    #link = "jhonykaesemodel@gmail.com"
 
   [[params.social]]
     icon = "linkedin"
