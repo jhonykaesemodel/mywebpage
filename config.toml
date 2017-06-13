@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   role = "Engineer & Computer Visionist"
   organization = "Queensland University of Technology"
   organization_url = ""
-  avatar = "jhony.gif"
+  avatar = "https://jhonykaesemodel.com/img/jhony.gif"
   email = "jhonykaesemodel@gmail.com"
   address = ""
   office_hours = ""
@@ -122,10 +122,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  #[[params.social]]
-    #icon = "envelope"
-    #icon_pack = "fa"
-    #link = "jhonykaesemodel@gmail.com"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:jhonykaesemodel@gmail.com"
 
   [[params.social]]
     icon = "linkedin"

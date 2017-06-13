@@ -12,6 +12,6 @@ widget = "contact"
 weight = 70
 
 # Automatically link email and phone?
-autolink = false
+autolink = true
 
 +++
