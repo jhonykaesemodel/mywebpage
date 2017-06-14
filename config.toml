@@ -1,4 +1,4 @@
-baseurl = "https://jhonykaesemodel.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "https://jhonykaesemodel.com/"  # End your URL with a `/` trailing slash.
 title = "Jhony Kaesemodel Pontes"
 copyright = "&copy; 2017 Jhony Kaesemodel Pontes"
 theme = "academic"
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   role = "Engineer & Computer Visionist"
   organization = "Queensland University of Technology"
   organization_url = ""
-  avatar = "headers/jhony.gif"
+  avatar = "portrait/jhony.gif"
   email = "jhonykaesemodel AT gmail.com"
   address = ""
   office_hours = ""
