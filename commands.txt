@@ -1,3 +1,5 @@
+https://georgecushen.com/create-your-website-with-hugo/
+
 hugo new post/quote.md
 hugo server --watch
 
