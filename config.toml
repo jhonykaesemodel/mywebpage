@@ -21,14 +21,14 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Jhony Kaesemodel Pontes"
   role = "Engineer & Computer Visionist"
-  organization = "Queensland University of Technology"
-  organization_url = ""
+  organization = "SAIVT lab, QUT"
+  organization_url = "https://www.qut.edu.au/research-all/research-projects/speech-audio-image-and-video-technology-saivt"
   avatar = "portrait/jhony2.jpg"
   email = "jhonykaesemodel AT gmail.com"
-  address = ""
+  address = "S Block, S610, Gardens Point, Queensland University of Technology"
   office_hours = ""
   phone = ""
-  skype = ""
+  skype = "jhonykaesemodel"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
