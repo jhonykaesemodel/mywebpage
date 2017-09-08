@@ -11,4 +11,4 @@ title = ""
 
 +++
 
-*"Most of us take completely for granted our ability to see the world around us. How do we do it seems no great mystery. We just open our eyes and look! When we do, we perceive a complex array of meaningful objects located in three-dimensional space"* - Stephen E. Palmer, Vision Science: Photons to Phenomenology.
+*"Most of us take completely for granted our ability to see the world around us. How do we do it seems no great mystery. We just open our eyes and look! When we do, we perceive a complex array of meaningful objects located in three-dimensional space"* - Stephen E. Palmer, [Vision Science: Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science).
