@@ -12,15 +12,15 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "3D Geometry",
-    "Artificial Intelligence",
+    "3D Vision",
     "Machine Learning",
-    "Signal Processing"
+    "Optimization",
+    "Signal Processing",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Student in Computer Vision"
+  course = "PhD in Computer Vision, ~2018"
   institution = "Queensland University of Technology"
 
 [[education.courses]]
@@ -36,5 +36,4 @@ weight = 1
 +++
 
 # About
-
-I’m a computer vision PhD student at the [Queensland University of Technologie](https://www.qut.edu.au/) in Australia. My interests include 3D geometry and reconstruction. I’m currently working on a research project at the Robotics Institute at the Carnegie Mellon University. My research focuses on 3D reconstruction from 2D images.
+I’m a computer vision PhD student at [Queensland University of Technologie](https://www.qut.edu.au/) in Australia. I’m currently working on representation and reconstruction of 3D objects from imagery. I spent an internship semester in 2017 in the [CI2CV lab](http://ci2cv.net/) in the Robotics Institute at [CMU](http://www.cmu.edu/) working on 3D reconstruction from a single image.

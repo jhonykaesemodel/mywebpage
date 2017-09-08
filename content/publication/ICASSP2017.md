@@ -1,9 +1,9 @@
 +++
 abstract = "A novel two-stage age prediction approach with group-specific features is proposed in this paper. Aging process is captured through a highly discriminating feature representation that models shape, appearance, skin spots, and wrinkles. The two-stage method consists of a multi-class Support Vector Machine (SVM) to predict the age bracket while the final age prediction is carried out using Support Vector Regression (SVR). The novelty of our work is that the feature extraction is group-specific and can therefore be tailored to each age bracket in the specific age prediction step. The FG-NET Aging dataset was used to evaluate the proposed method and an impressive mean absolute error ($MAE$) of 3.98 was achieved. Our approach outperforms the current state-of-the-art while increasing the robustness to blur, expression and lighting variation with local phase features."
 abstract_short = ""
-authors = ["Jhony K. Pontes", "Clinton Fookes", "Alceu S. Britto Jr.", "Alessandro L. Koerich"]
+authors = ["**Jhony K. Pontes**", "[Clinton Fookes](http://staff.qut.edu.au/staff/fookes/)", "Alceu S. Britto Jr.", "[Alessandro L. Koerich](http://etsmtl.ca/Professeurs/akoerich/Home)"]
 date = "2017-03-01"
-image_preview = ""
+image_preview = "headers/ICASSP2017_small.png"
 math = true
 publication_types = ["1"]
 publication = "In *International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, IEEE."

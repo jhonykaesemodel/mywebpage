@@ -16,6 +16,6 @@ weight = 20
 count = 10
 
 # Show publication details (such as abstract)? (true/false)
-detailed_list = false
+detailed_list = true
 
 +++

@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   address = "S Block, S610, Gardens Point, Queensland University of Technology"
   office_hours = ""
   phone = ""
-  skype = "jhonykaesemodel"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -170,7 +170,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -178,10 +178,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -191,7 +191,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
