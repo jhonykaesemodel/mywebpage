@@ -16,6 +16,7 @@ weight = 1
     "Machine Learning",
     "Optimization",
     "Signal Processing",
+    "Computer Graphics",
   ]
 
 # List your qualifications (such as academic degrees).
