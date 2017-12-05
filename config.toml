@@ -194,9 +194,10 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 6
+  name = "My CV"
+  url = "files/cv.pdf"
+  weight = 5
+
 
 # Taxonomies.
 [taxonomies]
