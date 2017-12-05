@@ -14,9 +14,8 @@ weight = 1
   interests = [
     "3D Vision",
     "Machine Learning",
-    "Optimization",
     "Signal Processing",
-    "Computer Graphics",
+    "Optimization",
   ]
 
 # List your qualifications (such as academic degrees).
