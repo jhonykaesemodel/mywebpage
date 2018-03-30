@@ -142,20 +142,20 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/jhonykaesemodel"
 
-  [[params.social]]
-    icon = "mendeley"
-    icon_pack = "ai"
-    link = "https://www.mendeley.com/profiles/jhony-kaesemodel-pontes/"
+  #[[params.social]]
+  #  icon = "mendeley"
+  #  icon_pack = "ai"
+  #  link = "https://www.mendeley.com/profiles/jhony-kaesemodel-pontes/"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "https://twitter.com/jhonykaesemodel"
 
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "https://www.instagram.com/jhonykaesemodel/?hl=en"
+  #[[params.social]]
+  #  icon = "instagram"
+  #  icon_pack = "fa"
+  #  link = "https://www.instagram.com/jhonykaesemodel/?hl=en"
 
 
 # Navigation Links
