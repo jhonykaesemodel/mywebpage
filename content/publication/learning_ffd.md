@@ -1,18 +1,18 @@
 +++
-abstract = "Representing 3D shape in deep learning frameworks in an accurate, efficient and compact manner still remains an open challenge. Most existing work addresses this issue by employing voxel-based representations. While these approaches benefit greatly from advances in computer vision by generalizing 2D convolutions to the 3D setting, they also have several considerable drawbacks. The computational complexity of voxel-encodings grows cubically with the resolution thus limiting such representations to low-resolution 3D reconstruction. In an attempt to solve this problem, point cloud representations have been proposed. Although point clouds are more efficient than voxel representations as they only cover surfaces rather than volumes, they do not encode detailed geometric information about relationships between points. In this paper we propose a method to learn free-form deformations (FFD) for the task of 3D reconstruction from a single image. By learning to deform points sampled from a high-quality mesh, our trained model can be used to produce arbitrarily dense point clouds or meshes with fine-grained geometry. We evaluate our proposed framework on both synthetic and real-world data and achieve state-of-the-art results on point-cloud and volumetric metrics. Additionally, we qualitatively demonstrate its applicability to label transferring for 3D semantic segmentation."
+abstract = "Representing 3D shape in deep learning frameworks in an accurate, efficient and compact manner still remains an open challenge. Most existing work addresses this issue by employing voxel-based representations. While these approaches benefit greatly from advances in computer vision by generalizing 2D convolutions to the 3D setting, they also have several considerable drawbacks. The computational complexity of voxel-encodings grows cubically with the resolution thus limiting such representations to low-resolution 3D reconstruction. In an attempt to solve this problem, point cloud representations have been proposed. Although point clouds are more efficient than voxel representations as they only cover surfaces rather than volumes, they do not encode detailed geometric information about relationships between points. In this paper we propose a method to learn free-form deformations (FFD) for the task of 3D reconstruction from a single image. By learning to deform points sampled from a high-quality mesh, our trained model can be used to produce arbitrarily dense point clouds or meshes with fine-grained geometry. We evaluate our proposed framework on synthetic data and achieve state-of-the-art results on surface and volumetric metrics."
 abstract_short = ""
 authors = ["Dominic Jack", "**Jhony K. Pontes**", "[Sridha Sridharan](http://staff.qut.edu.au/staff/sridhara/)", "[Clinton Fookes](http://staff.qut.edu.au/staff/fookes/)", "Sareh Shirazi", "Frederic Maire", "[Anders Eriksson](https://ando.000webhostapp.com/)"]
 date = "2018-03-29"
 image_preview = "headers/learning_ffd_2018.png"
 math = true
 publication_types = ["1"]
-publication = "In *ArXiv 2018*"
-publication_short = "*ArXiv 2018*"
+publication = "In *ACCV 2018*"
+publication_short = "*ACCV 2018*"
 selected = false
 title = "Learning free-form deformations for 3D object reconstruction"
 url_code = "https://github.com/jackd/template_ffd"
 #url_dataset = "#"
-url_pdf = "papers/ArXiV_learning_ffd_2018.pdf"
+url_pdf = "papers/learning_ffd_accv2018-camera_ready.pdf"
 url_arxiv = "papers/ArXiV_learning_ffd_2018.pdf"
 #url_project = "project/deep-learning/"
 #url_slides = "#"

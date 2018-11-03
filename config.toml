@@ -1,6 +1,6 @@
 baseurl = "https://jhonykaesemodel.com/"  # End your URL with a `/` trailing slash.
 title = "Jhony Kaesemodel Pontes"
-copyright = "&copy; 2017 Jhony Kaesemodel Pontes"
+copyright = "&copy; 2018 Jhony Kaesemodel Pontes"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   role = "Engineer & Computer Visionist"
   organization = "SAIVT lab, QUT"
   organization_url = "https://www.qut.edu.au/research-all/research-projects/speech-audio-image-and-video-technology-saivt"
-  avatar = "portrait/jhony2.jpg"
+  avatar = "portrait/jhony3.jpg"
   email = "jhonykaesemodel AT gmail.com"
   address = "S Block, S610, Gardens Point, Queensland University of Technology"
   office_hours = ""

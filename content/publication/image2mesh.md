@@ -1,23 +1,23 @@
 +++
-abstract = "One challenge that remains open in 3D deep learning is how to efficiently represent 3D data to feed deep networks. Recent works have relied on volumetric or point cloud representations, but such approaches suffer from a number of issues such as computational complexity, unordered data, and lack of finer geometry. This paper demonstrates that a mesh representation (i.e. vertices and faces to form polygonal surfaces) is able to capture fine-grained geometry for 3D reconstruction tasks. A mesh however is also unstructured data similar to point clouds. We address this problem by proposing a learning framework to infer the parameters of a compact mesh representation rather than learning from the mesh itself. This compact representation encodes a mesh using free-form deformation and a sparse linear combination of models allowing us to reconstruct 3D meshes from single images. In contrast to prior work, we do not rely on silhouettes and landmarks to perform 3D reconstruction. We evaluate our method on synthetic and real-world datasets with very promising results. Our framework efficiently reconstructs 3D objects in a low-dimensional way while preserving its important geometrical aspects."
+abstract = "A challenge that remains open in 3D deep learning is how to efficiently represent 3D data to feed deep neural networks. Recent works have been relying on volumetric or point cloud representations, but such approaches suffer from a number of issues such as computational complexity, unordered data, and lack of finer geometry. An efficient way to represent a 3D shape is through a polygon mesh as it encodes both shape's geometric and topological information. However, the mesh's data structure is an irregular graph (i.e. collection of vertices connected by edges to form polygonal faces) and it is not straightforward to integrate it into learning frameworks since every mesh is likely to have a different structure. Here we address this drawback by efficiently converting an unstructured 3D mesh into a regular and compact shape parametrization that is ready for machine learning applications. We developed a simple and lightweight learning framework able to reconstruct high-quality 3D meshes from a single image by using a compact representation that encodes a mesh using free-form deformation and sparse linear combination in a small dictionary of 3D models. In contrast to prior work, we do not rely on classical silhouette and landmark registration techniques to perform the 3D reconstruction. We extensively evaluated our method on synthetic and real-world datasets and found that it can efficiently and compactly reconstruct 3D objects while preserving its important geometrical aspects."
 abstract_short = ""
 authors = ["**Jhony K. Pontes**", "[Chen Kong](http://www.cs.cmu.edu/~chenk/)", "[Sridha Sridharan](http://staff.qut.edu.au/staff/sridhara/)", "[Simon Lucey](http://www.simonlucey.com/)", "[Anders Eriksson](https://ando.000webhostapp.com/)", "[Clinton Fookes](http://staff.qut.edu.au/staff/fookes/)"]
 date = "2017-11-29"
 image_preview = "headers/image2mesh_small.png"
 math = true
 publication_types = ["1"]
-publication = "In *ArXiv 2017*"
-publication_short = "*ArXiv 2017*"
+publication = "In *ACCV 2018*"
+publication_short = "*ACCV 2018*"
 selected = false
 title = "Image2Mesh: A learning framework for single image 3D reconstruction"
 url_code = "https://github.com/jhonykaesemodel/image2mesh"
 #url_dataset = "#"
-url_pdf = "papers/ArXiV_image2mesh2017.pdf"
+url_pdf = "papers/image2mesh-accv2018-camera_ready.pdf"
 url_arxiv = "papers/ArXiV_image2mesh2017.pdf"
 #url_project = "project/deep-learning/"
 #url_slides = "#"
 url_bibtex = "papers/image2mesh2017.html"
-url_sup = "papers/Supplementary_Material_image2mesh_2017.pdf"
+url_sup = "papers/Supplementary_Material_image2mesh_accv2018.pdf"
 
 #[[url_custom]]
 #name = "Custom Link"
