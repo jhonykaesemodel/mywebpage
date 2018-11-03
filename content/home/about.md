@@ -36,4 +36,4 @@ weight = 1
 +++
 
 # About
-I’m a PhD student at [Queensland University of Technology](https://www.qut.edu.au/), Australia working on computer vision and machine learning. My research is on representation and reconstruction of 3D shapes. I spent a research internship semester at [Facebook Reality Labs (aka Oculus Research)](https://www.youtube.com/watch?v=RueT9FhiCtg) in 2018 and in the [CI2CV lab](http://ci2cv.net/), [Robotics Institute](http://ri.cmu.edu/) at [CMU](http://www.cmu.edu/) in 2017 working on 3D reconstruction problems.
+I’m a PhD student at [Queensland University of Technology](https://www.qut.edu.au/), Australia, working on computer vision and machine learning. My research is on representation and reconstruction of 3D shapes. I spent a research internship semester at [Facebook Reality Labs (aka Oculus Research)](https://www.youtube.com/watch?v=RueT9FhiCtg) in 2018 and in the [CI2CV lab](http://ci2cv.net/), [Robotics Institute](http://ri.cmu.edu/) at [CMU](http://www.cmu.edu/) in 2017 working on 3D reconstruction problems.
