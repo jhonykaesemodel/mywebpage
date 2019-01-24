@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jhony Kaesemodel Pontes</title>
+    <link>https://jhonykaesemodel.com/post/</link>
+    <description>Recent content in Posts on Jhony Kaesemodel Pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jhony Kaesemodel Pontes</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhonykaesemodel.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jhonykaesemodel.com/post/top5cvpr17/</link>
+      <pubDate>Sun, 20 Aug 2017 17:47:09 -0400</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/post/top5cvpr17/</guid>
+      <description>5 papers I found pretty cool at CVPR 2017
+ Deep learning human mind for automated visual classification (oral)
+[Paper] [Project webpage] [Video] A point set generation network for 3D object reconstruction (oral)
+[Paper] [Project webpage] SurfNet: Generating 3D shape surfaces using deep residual networks (poster)
+[Paper] [Project webpage] [Video] Learning shape abstractions by assembling volumetric primitives (poster)
+[Paper] [Project webpage] IM2CAD (spotlight)
+[Paper] [Project webpage] [Video]  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jhonykaesemodel.com/post/quote/</link>
+      <pubDate>Mon, 05 Jun 2017 17:47:09 -0400</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/post/quote/</guid>
+      <description>&amp;ldquo;Most of us take completely for granted our ability to see the world around us. How do we do it seems no great mystery. We just open our eyes and look! When we do, we perceive a complex array of meaningful objects located in three-dimensional space&amp;rdquo; - Stephen E. Palmer, Vision Science: Photons to Phenomenology.</description>
+    </item>
+    
+  </channel>
+</rss>

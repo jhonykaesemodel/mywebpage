@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Jhony Kaesemodel Pontes</title>
+    <link>https://jhonykaesemodel.com/publication_types/1/</link>
+    <description>Recent content in 1 on Jhony Kaesemodel Pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jhony Kaesemodel Pontes</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhonykaesemodel.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep level sets: Implicit surface representations for 3D shape inference</title>
+      <link>https://jhonykaesemodel.com/publication/deeplevelsets/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/publication/deeplevelsets/</guid>
+      <description> Results </description>
+    </item>
+    
+    <item>
+      <title>Learning free-form deformations for 3D object reconstruction</title>
+      <link>https://jhonykaesemodel.com/publication/learning_ffd/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/publication/learning_ffd/</guid>
+      <description>Overview Given a single image, our method uses a CNN to infer free-form deformation (FFD) parameters $\Delta \mathbf{P}$ (red arrows) for multiple templates $T$ (middle meshes). The $\Delta \mathbf{P}$ parameters are then used to deform the template vertices to infer a 3D mesh for each template (right meshes). Trained only with surface-sampled point-clouds, the model learns to apply large deformations to topologically different templates to produce inferred meshes with similar surfaces.</description>
+    </item>
+    
+    <item>
+      <title>Image2Mesh: A learning framework for single image 3D reconstruction</title>
+      <link>https://jhonykaesemodel.com/publication/image2mesh/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/publication/image2mesh/</guid>
+      <description>Overview Given a single image, our framework employs a convolutional autoencoder to extract the image&amp;rsquo;s latent space, $\mathbf{z}$, that is used to classify it to an index, $c$, using a multi-label classifier and regress it to a compact shape parametrization using a feedforward network. We use a graph embedding, $\mathcal{G}$, that compactly represents 3D mesh objects to reconstruct the 3D model. Firstly, the estimated index, $c$, selects the closest 3D model to the image from the graph.</description>
+    </item>
+    
+    <item>
+      <title>Compact model representation for 3D reconstruction</title>
+      <link>https://jhonykaesemodel.com/publication/3dv2017/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/publication/3dv2017/</guid>
+      <description>Example of a 3D CAD model being fit to a single image using our FFD anchor registration and silhouette fitting. Example of our 3D reconstruction from a single image. Please check the supplementary material out for more examples.
+[1] C. Kong, C-H. Lin and S. Lucey, Using Locally Corresponding CAD Models for Dense 3D Reconstructions from a Single Image, CVPR 2017.</description>
+    </item>
+    
+    <item>
+      <title>Two-stage facial age prediction using group-specific features</title>
+      <link>https://jhonykaesemodel.com/publication/icassp2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/publication/icassp2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

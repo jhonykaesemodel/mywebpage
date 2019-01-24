@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jhony Kaesemodel Pontes</title>
+    <link>https://jhonykaesemodel.com/home/</link>
+    <description>Recent content in Homes on Jhony Kaesemodel Pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jhony Kaesemodel Pontes</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhonykaesemodel.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jhonykaesemodel.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/home/about/</guid>
+      <description>About I’m a PhD student at Queensland University of Technology, Australia, working on computer vision and machine learning. My research is on representation and reconstruction of 3D shapes. I spent a research internship semester at Facebook Reality Labs (aka Oculus Research) in 2018 and in the CI2CV lab, Robotics Institute at CMU in 2017 working on 3D reconstruction problems.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jhonykaesemodel.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://jhonykaesemodel.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jhonykaesemodel.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhonykaesemodel.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
